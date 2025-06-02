@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Портфолио студента</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <header>
+    <div class="container header-content">
+      <img src="assets/images/avatar.jpg" alt="Фото" class="avatar">
+      <div class="intro">
+        <h1>Тарханова Екатерина</h1>
+        <p>Студентка направления "Информатика и вычислительная техника"</p>
+        <p>2021–2025 |  РГПУ им. А.И. Герцена</p>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="disciplines">
+      <div class="container">
+        <h2>Модули обучения</h2>
+        <div id="cards-container" class="cards-grid"></div>
+      </div>
+    </section>
+  </main>
+
+  <div id="modal" class="modal hidden">
+    <div class="modal-content">
+      <span id="modal-close" class="modal-close">&times;</span>
+      <h3 id="modal-title"></h3>
+      <p id="modal-description"></p>
+      <ul id="modal-links"></ul>
+    </div>
+  </div>
+</body>
+</html>

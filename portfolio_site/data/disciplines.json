@@ -1,0 +1,105 @@
+[{
+    "title": "Практики",
+    "description": "Материалы и отчеты по различным видам учебной и производственной практики",
+    "disciplines": [
+      { "title": "Учебная (эксплуатационная)", "url": "https://github.com/EkTarkhanova/EkTarkhanova.github.io/blob/main/index.md" },
+      { "title": "Учебная (технологическая (проектно-технологическая))", "url": "https://github.com/EkTarkhanova/TarkhanovaEYu.P2/blob/main/README.md" },
+      { "title": "Производственная (технологическая (проектно-технологическая))", "url": "https://docs.google.com/document/d/1bHDkWtBFMd8TDnxYc2u6DnKGh3Zuz1d5f9F3rvyCrJE/edit?usp=sharing" },
+      { "title": "Производственная (научно-исследовательская работа)", "url": "https://github.com/EkTarkhanova/ptp-8?tab=readme-ov-file" },
+      { "title": "Производственная (преддипломная)", "url": "https://github.com/EkTarkhanova/predd-pract" }
+    ]
+  },
+  {
+    "title": "Курсовые работы",
+    "description": "Курсовые проекты, выполненные в рамках учебной программы",
+    "disciplines": [
+      { "title": "Вычислительный эксперимент по исследованию кипения жидкости в разных условиях", "url": "https://docs.google.com/document/d/1BdCe7frCngA2NL83X3x4wtce-9ga_lA7KuZSJ1zW5yQ/edit?usp=sharing" },
+      { "title": "Технологии компьютерного моделирования в дизайне", "url": "https://docs.google.com/document/d/1j-J2bOTdA_qp0_u6BZ6YHkVjvVEbialr3XQHtF7SiEs/edit?usp=sharing" },
+      { "title": "Программная реализация анализа данных с использованием вариационных рядов и коэффициента Cпирмена", "url": "https://docs.google.com/document/d/1KMi5GxTxTPW090Frmh1f2mOwLSEoeOGCPuWq7Rwh-ac/edit?usp=sharing" },
+      { "title": "Проектирование и разработка веб-портфолио по дисциплине 'Базы данных'", "url": "https://docs.google.com/document/d/1GPlAIIMpmTbjI4vnlvkQ0vPJgULPQda_/edit?usp=sharing&ouid=108764732630822905990&rtpof=true&sd=true" }
+    ]
+  },
+  {
+    "title": "Универсальные и гуманитарные дисциплины",
+    "description": "Работы по дисциплинам, формирующим общее гуманитарное и языковое развитие, развивающим критическое мышление, коммуникативные навыки и культурную осведомлённость",
+    "disciplines": [
+      { "title": "Иностранный язык", "url": "https://drive.google.com/drive/folders/1SwUsI_qleu-H2UFU0RHtgZUbTfZFStv9?usp=sharing" },
+      { "title": "Философия", "url": "https://docs.google.com/presentation/d/1yDj7VNrtTnTXnjWwovU6H91mvhYkjj0_/edit?usp=sharing&ouid=108764732630822905990&rtpof=true&sd=true" }
+    ]
+  },
+  {
+    "title": "Математика и Теория",
+    "description": "Работы по дисциплинам математического профиля, обеспечивающие фундаментальные знания, необходимые для аналитической и исследовательской деятельности в области информационных технологий",
+    "disciplines": [
+      { "title": "Линейная алгебра и теория матриц", "url": "https://drive.google.com/drive/folders/1qKJPd_-OGzIbBd0kMXBnsoMHBJbhxso3?usp=sharing" },
+      { "title": "Математический анализ", "url": "https://drive.google.com/drive/folders/1GGzmPRy-8_vFTXKYnwqovCjzYe_m7_Zz?usp=sharing" },
+      { "title": "Интегралы и дифференциальные уравнения", "url": "https://drive.google.com/drive/folders/1SKSSoCCsHcUE5Pb1s4Sz3POm9K9PpTYe?usp=sharing" },
+      { "title": "Математические основы глубокого обучения", "url": "https://docs.google.com/document/d/1mxkrXOd7zt9AGlNdCL0bb4bVc4FgQ4O5yVphECr1rG8/edit?usp=sharing" },
+      { "title": "Основы компьютерной алгебры", "url": "https://tarkhanovaeyu-portfolio.blogspot.com/search/label/ИТ%20В%20МАТЕМАТИКЕ?m=1" },
+      { "title": "Вычислительная математика", "url": "https://drive.google.com/drive/folders/1GdyaPuWckemGF2XL1yygQt78iWLvJ9Oy?usp=sharing" }
+    ]
+  },
+  {
+    "title": "Программирование и алгоритмы",
+    "description": "Работы по дисциплинам, охватывающим основы программирования, алгоритмическое мышление, проектирование программного обеспечения и спецификацию программных систем",
+    "disciplines": [
+      { "title": "Программирование",  "labs": [
+          { "title": "Портфолио за 3-4 семестр", "url": "https://replit.com/@IekatierinaTark" },
+          { "title": "Портфолио за 5 семестр", "url": "https://github.com/EkTarkhanova/portfolio_prog5" },
+          { "title": "Портфолио за 6 семестр", "url": "https://github.com/EkTarkhanova/portfolio_prog6" },
+          { "title": "Портфолио за 7 семестр", "url": "https://docs.google.com/document/d/1E4HSG8xriHsBk-Vs5aSypLu6PqYzi8Yrj-vE9vh9zbo/edit?usp=sharing" }
+        ] },  
+      { "title": "Языки написания спецификаций", "url": "https://github.com/EkTarkhanova/uml_4k" },
+      { "title": "Управление программными проектами", "url": "https://drive.google.com/drive/folders/1O92U_yakMf3uDh8zxtrWdzSGXWEqdK0K?usp=sharing" },
+      { "title": "Научно-исследовательский проект", "url": "https://drive.google.com/drive/folders/137uaajFHSUkoUQvkN9cu-bRAPmYtiDCL?usp=sharing" }
+    ]
+  },
+  {
+    "title": "Информационные технологии и системы",
+    "description": "Работы по дисциплинам, направленным на освоение современных информационных технологий, систем автоматизации и методов анализа данных, применяемых в различных сферах деятельности",
+    "disciplines": [
+      { "title": "Информационные технологии", "url": "https://drive.google.com/drive/folders/1u5NpsnumN4KU23ip_l07sOhLwsIktQ5b?usp=sharing" },
+      { "title": "Информационные технологии в математике", "url": "https://drive.google.com/drive/folders/18PfGFbkO5-ubaLUmj-mpujGfpuvRCum6?usp=sharing" },
+      { "title": "Информационные технологии оценки персонала", "url": "https://drive.google.com/drive/folders/1ferParyygg-8ZbQTv3TttlDy8LBv815r?usp=sharing " },
+      { "title": "Основы бизнес-информатики", "url": "https://drive.google.com/drive/folders/1eQsP6xgh9Cjo4C45MEf1cgtzycnfGxze?usp=sharing" },
+      { "title": "Основы корпоративного электронного обучения", "url": "https://drive.google.com/drive/folders/1_WuZ2a-f2aP0h2pT2sGaubDIsT0mBanj?usp=sharing" },
+      { "title": "Социальные и профессиональные вопросы информатики и ИТ", "url": "https://drive.google.com/drive/folders/1Re8uVWoI_LRndPuuDNHcm83RFy9gzZFs?usp=sharing" },
+      { "title": "IT-рекрутмент", "url": "https://drive.google.com/drive/folders/13iLfRdnwooWD3_znOVxcVXBqPnEzRd_z?usp=sharing" },
+      { "title": "Мировые информационные ресурсы и цифровые библиотеки", "url": "https://drive.google.com/drive/folders/1_6-2XukgWzd7K2RWVrbemiMjoP6Ruv_A?usp=sharing" },
+      { "title": "IT-менеджмент", "url": "https://drive.google.com/drive/folders/1zgXSGnhgGcuC-sfZTo5lRHN9XfWjcgNl?usp=sharing" }
+    ]
+  },
+  {
+    "title": "Компьютерная наука",
+    "description": " Раздел содержит работы, связанные с теоретическими и прикладными аспектами компьютерных наук, включая архитектуру вычислительных систем, теорию вычислений и базы знаний в области ИТ",
+    "disciplines": [
+      { "title": "Вычислительная техника", "url": "https://drive.google.com/drive/folders/1v-HteOJTCRM7PivGaBTtPXFVGRA2trQD?usp=sharing" },
+      { "title": "Операционные системы", "url": "https://drive.google.com/drive/folders/1TEKwoJtAQ4evN0YcNgXlzsezKTWPJ4vb?usp=sharing" },
+      { "title": "Сети и телекоммуникации", "url": "https://drive.google.com/drive/folders/1fwgGBJ3DGEXU_dNBnej_u-Rx0WPNZTPd?usp=sharing" },
+      { "title": "Базы данных", "url": "https://docs.google.com/document/d/1kPP0XLrp-QBg2IAqO3Oy8pOvc8zvrVHjhs6iybpBl3A/edit?usp=sharing" },
+      { "title": "Защита информации", "url": "https://drive.google.com/drive/folders/1ZEE_tvgzw1wMIbSoV8C1VoZt8PXeLrRD?usp=sharing" },
+      { "title": "Основы машинного обучения", "url": "https://docs.google.com/document/d/1oOM3qLY4ZuBmYWO9bYRT9rS_GXro1-6O0kLtaJ_3CmE/edit?usp=sharing" },
+      { "title": "Анализ данных и основы Data science", "url": "https://drive.google.com/drive/folders/1aQFhwgwp2BZ0GTsu7Vj_hkxtuekSSm5_?usp=sharing" }
+    ]
+  },
+  {
+    "title": "Графика и визуализация",
+    "description": "Раздел содержит работы по дисциплинам, посвящёным изучению теоретических и прикладных основ визуального представления информации, методов моделирования, а также средств и технологий компьютерной графики",
+    "disciplines": [
+      { "title": "Компьютерная графика", "url": "https://drive.google.com/drive/folders/1xHQFTBulQov9u1BcG8uTsbko_qLWPpB6?usp=sharing" },
+      { "title": "Инженерная графика", "url": "https://drive.google.com/drive/folders/1wjYl1QM_f2YdZRJA4cViTTFwtq8L2Wkh?usp=sharing" },
+      { "title": "Математические основы компьютерной графики", "url": "https://drive.google.com/drive/folders/1A0gBNn-bvJyCadWvSzKPNmyxVljOZ0_j?usp=sharing" },
+      { "title": "Технологии компьютерного моделирования", "url": "https://drive.google.com/drive/folders/12W-NzLnOhYA2l_L6YFbS3hjA7VPfwknK?usp=sharing" }
+    ]
+  },
+
+  {
+    "title": "Учебные проекты",
+    "description": "Проекты, выполненные в рамках учебной деятельности",
+    "disciplines": [
+      { "title": "База данных для информационной системы кафедры", "url": "https://docs.google.com/document/d/1Y_-c5Qj4WvBqQAvUapYnfkyJiiQB1pub/edit?usp=sharing&ouid=108764732630822905990&rtpof=true&sd=true" },
+      { "title": "Сайт-портфолио работ по базам данных", "url": "https://portf88.wordpress.com/" },
+      { "title": "Проект 1C-конфигурация", "url": "https://drive.google.com/file/d/1JKjXBs1tRjfKPBJJpdKWeh9C4Xb6lLkq/view?usp=sharing" }
+    ]
+  }
+]
